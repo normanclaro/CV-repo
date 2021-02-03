@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: "Roboto", sans-serif;
 }
 
 .App-logo {
@@ -58,4 +59,7 @@ body {
 }
 .text1 {
   text-align: left;
+}
+.contact {
+  padding: 20px;
 }
